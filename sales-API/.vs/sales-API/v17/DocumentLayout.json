@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|c:\\users\\lenovo\\onedrive\\desktop\\sales-txn-application\\sales-api\\sales-api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|solutionrelative:sales-api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|c:\\users\\lenovo\\onedrive\\desktop\\sales-txn-application\\sales-api\\sales-api\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|solutionrelative:sales-api\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|c:\\users\\lenovo\\onedrive\\desktop\\sales-txn-application\\sales-api\\sales-api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|solutionrelative:sales-api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|c:\\users\\lenovo\\onedrive\\desktop\\sales-txn-application\\sales-api\\sales-api\\controllers\\salestransactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|solutionrelative:sales-api\\controllers\\salestransactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|c:\\users\\lenovo\\onedrive\\desktop\\sales-txn-application\\sales-api\\sales-api\\data\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|solutionrelative:sales-api\\data\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|c:\\users\\lenovo\\onedrive\\desktop\\sales-txn-application\\sales-api\\sales-api\\data\\salestransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|solutionrelative:sales-api\\data\\salestransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|c:\\users\\lenovo\\onedrive\\desktop\\sales-txn-application\\sales-api\\sales-api\\data\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|solutionrelative:sales-api\\data\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|c:\\users\\lenovo\\onedrive\\desktop\\sales-txn-application\\sales-api\\sales-api\\data\\salestransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|solutionrelative:sales-api\\data\\salestransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|c:\\users\\lenovo\\onedrive\\desktop\\sales-txn-application\\sales-api\\sales-api\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|solutionrelative:sales-api\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|c:\\users\\lenovo\\onedrive\\desktop\\sales-txn-application\\sales-api\\sales-api\\data\\isalestransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|solutionrelative:sales-api\\data\\isalestransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|c:\\users\\lenovo\\onedrive\\desktop\\sales-txn-application\\sales-api\\sales-api\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|solutionrelative:sales-api\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|c:\\users\\lenovo\\onedrive\\desktop\\sales-txn-application\\sales-api\\sales-api\\data\\invoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|solutionrelative:sales-api\\data\\invoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|c:\\users\\lenovo\\onedrive\\desktop\\sales-txn-application\\sales-api\\sales-api\\data\\iinvoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|solutionrelative:sales-api\\data\\iinvoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|c:\\users\\lenovo\\onedrive\\desktop\\sales-txn-application\\sales-api\\sales-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|solutionrelative:sales-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|c:\\users\\lenovo\\onedrive\\desktop\\sales-txn-application\\sales-api\\sales-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|solutionrelative:sales-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|c:\\users\\lenovo\\onedrive\\desktop\\sales-txn-application\\sales-api\\sales-api\\data\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|solutionrelative:sales-api\\data\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|c:\\users\\lenovo\\onedrive\\desktop\\sales-txn-application\\sales-api\\sales-api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|solutionrelative:sales-api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|c:\\users\\lenovo\\onedrive\\desktop\\sales-txn-application\\sales-api\\sales-api\\migrations\\20240314134704_added product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|solutionrelative:sales-api\\migrations\\20240314134704_added product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|c:\\users\\lenovo\\onedrive\\desktop\\sales-txn-application\\sales-api\\sales-api\\migrations\\20240314092156_initial setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|solutionrelative:sales-api\\migrations\\20240314092156_initial setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|c:\\users\\lenovo\\onedrive\\desktop\\sales-txn-application\\sales-api\\sales-api\\migrations\\20240315081154_added salestransaction and invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|solutionrelative:sales-api\\migrations\\20240315081154_added salestransaction and invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|c:\\users\\lenovo\\onedrive\\desktop\\sales-txn-application\\sales-api\\sales-api\\migrations\\20240315140723_set identity column.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A11169B-6E81-4865-A63F-DD6414F3DEAC}|sales-API\\sales-API.csproj|solutionrelative:sales-api\\migrations\\20240315140723_set identity column.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SalesTransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\Controllers\\SalesTransactionController.cs",
+              "RelativeDocumentMoniker": "sales-API\\Controllers\\SalesTransactionController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\Controllers\\SalesTransactionController.cs",
+              "RelativeToolTip": "sales-API\\Controllers\\SalesTransactionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T05:19:59.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISalesTransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\data\\ISalesTransactionRepository.cs",
+              "RelativeDocumentMoniker": "sales-API\\data\\ISalesTransactionRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\data\\ISalesTransactionRepository.cs",
+              "RelativeToolTip": "sales-API\\data\\ISalesTransactionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T05:07:23.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\data\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "sales-API\\data\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\data\\ProductRepository.cs",
+              "RelativeToolTip": "sales-API\\data\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T13:07:23.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SalesTransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\data\\SalesTransactionRepository.cs",
+              "RelativeDocumentMoniker": "sales-API\\data\\SalesTransactionRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\data\\SalesTransactionRepository.cs",
+              "RelativeToolTip": "sales-API\\data\\SalesTransactionRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAUwCgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T05:09:24.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\data\\Customer.cs",
+              "RelativeDocumentMoniker": "sales-API\\data\\Customer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\data\\Customer.cs",
+              "RelativeToolTip": "sales-API\\data\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T04:53:27.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "sales-API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "sales-API\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T13:24:52.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvoiceController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\Controllers\\InvoiceController.cs",
+              "RelativeDocumentMoniker": "sales-API\\Controllers\\InvoiceController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\Controllers\\InvoiceController.cs",
+              "RelativeToolTip": "sales-API\\Controllers\\InvoiceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T07:58:43.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "sales-API\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "sales-API\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwCAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T08:53:00.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SalesTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\data\\SalesTransaction.cs",
+              "RelativeDocumentMoniker": "sales-API\\data\\SalesTransaction.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\data\\SalesTransaction.cs",
+              "RelativeToolTip": "sales-API\\data\\SalesTransaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T04:12:37.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\data\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "sales-API\\data\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\data\\CustomerRepository.cs",
+              "RelativeToolTip": "sales-API\\data\\CustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T08:48:06.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240315140723_set identity column.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\Migrations\\20240315140723_set identity column.cs",
+              "RelativeDocumentMoniker": "sales-API\\Migrations\\20240315140723_set identity column.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\Migrations\\20240315140723_set identity column.cs",
+              "RelativeToolTip": "sales-API\\Migrations\\20240315140723_set identity column.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T14:07:24.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\data\\Product.cs",
+              "RelativeDocumentMoniker": "sales-API\\data\\Product.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\data\\Product.cs",
+              "RelativeToolTip": "sales-API\\data\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T13:06:53.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IInvoiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\data\\IInvoiceRepository.cs",
+              "RelativeDocumentMoniker": "sales-API\\data\\IInvoiceRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\data\\IInvoiceRepository.cs",
+              "RelativeToolTip": "sales-API\\data\\IInvoiceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T07:58:06.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InvoiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\data\\InvoiceRepository.cs",
+              "RelativeDocumentMoniker": "sales-API\\data\\InvoiceRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\data\\InvoiceRepository.cs",
+              "RelativeToolTip": "sales-API\\data\\InvoiceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T07:58:22.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\appsettings.json",
+              "RelativeDocumentMoniker": "sales-API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\appsettings.json",
+              "RelativeToolTip": "sales-API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-15T02:27:41.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\Program.cs",
+              "RelativeDocumentMoniker": "sales-API\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\Program.cs",
+              "RelativeToolTip": "sales-API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T08:29:08.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\data\\Invoice.cs",
+              "RelativeDocumentMoniker": "sales-API\\data\\Invoice.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\data\\Invoice.cs",
+              "RelativeToolTip": "sales-API\\data\\Invoice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T04:20:08.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "sales-API\\data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\data\\AppDbContext.cs",
+              "RelativeToolTip": "sales-API\\data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T08:24:13.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240315081154_added SalesTransaction and Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\Migrations\\20240315081154_added SalesTransaction and Invoice.cs",
+              "RelativeDocumentMoniker": "sales-API\\Migrations\\20240315081154_added SalesTransaction and Invoice.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\Migrations\\20240315081154_added SalesTransaction and Invoice.cs",
+              "RelativeToolTip": "sales-API\\Migrations\\20240315081154_added SalesTransaction and Invoice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T08:11:54.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240314134704_added product.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\Migrations\\20240314134704_added product.cs",
+              "RelativeDocumentMoniker": "sales-API\\Migrations\\20240314134704_added product.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\Migrations\\20240314134704_added product.cs",
+              "RelativeToolTip": "sales-API\\Migrations\\20240314134704_added product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T13:47:04.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240314092156_Initial setup.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\Migrations\\20240314092156_Initial setup.cs",
+              "RelativeDocumentMoniker": "sales-API\\Migrations\\20240314092156_Initial setup.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Sales-Txn-Application\\sales-API\\sales-API\\Migrations\\20240314092156_Initial setup.cs",
+              "RelativeToolTip": "sales-API\\Migrations\\20240314092156_Initial setup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T09:21:56.408Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
